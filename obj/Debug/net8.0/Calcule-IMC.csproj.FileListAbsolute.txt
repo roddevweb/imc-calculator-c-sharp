@@ -1,0 +1,14 @@
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\bin\Debug\net8.0\Calcule-IMC.exe
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\bin\Debug\net8.0\Calcule-IMC.deps.json
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\bin\Debug\net8.0\Calcule-IMC.runtimeconfig.json
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\bin\Debug\net8.0\Calcule-IMC.dll
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\bin\Debug\net8.0\Calcule-IMC.pdb
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\Calcule-IMC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\Calcule-IMC.AssemblyInfoInputs.cache
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\Calcule-IMC.AssemblyInfo.cs
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\Calcule-IMC.csproj.CoreCompileInputs.cache
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\Calcule-IMC.dll
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\refint\Calcule-IMC.dll
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\Calcule-IMC.pdb
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\Calcule-IMC.genruntimeconfig.cache
+F:\Treina-web\c#\004-Calcule-IMC\Calcule-IMC\obj\Debug\net8.0\ref\Calcule-IMC.dll
